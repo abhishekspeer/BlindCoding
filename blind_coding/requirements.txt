@@ -1,6 +1,6 @@
 django==2.1.7
 django-allauth
-whitenoise
+whitenoise==4.1.2
 python-decouple
 dj-database-url==0.3.0
 dj-static==0.0.6
